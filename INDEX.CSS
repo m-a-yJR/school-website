@@ -1,0 +1,97 @@
+ul{
+    display: flex;
+    padding: 15px;
+    margin: -9px;
+    background-color: #6c059d;
+    justify-content: space-between;
+}
+.logo{
+    display: flex;
+    justify-content: flex-start;
+    width: 30px;
+}
+ul li{
+    text-decoration: none;
+    list-style: none;
+}
+
+ul li a:hover{ 
+    color: gold;
+    transition: 1s;
+}
+ul li a{
+    color: black;
+    text-decoration: none;
+}
+.main{
+    position: relative;
+    width: 102%;
+    min-height: 70px;
+    z-index: -1;
+    margin: -9px;
+    
+}
+body{
+    background-color: rgb(44, 44, 44);
+}
+h1{
+    position: absolute;
+    z-index: 1;
+    color: gold;
+    font-family: "Jersey 15", serif;
+    font-weight: 1500;
+    font-style: normal;
+    font-size: 70px;
+    padding: 220px;
+}
+.p{
+    position: absolute;
+    z-index: 1;
+    color: gold;
+    font-family: "Tangerine", serif;
+    font-weight: 700;
+    font-style: normal;
+    padding: 300px;
+    font-size: 40px;
+}
+.about h1{
+    padding-top: 1px;
+    padding-left: 500px;
+}
+
+.about p{
+    display: flex;
+    justify-content: flex-start;
+    padding-right: 700px;
+    padding-top: 80px;
+    position: absolute;
+    z-index: 1;
+    color: gold;
+    font-family: "Tangerine", serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 30px;
+}
+.about img{
+    padding-left: 750px;
+    width: 400px;
+    padding-top: 80px;
+}
+.gal h1{
+    padding-top: 1px;
+    padding-left: 500px;
+}
+.gal h1:hover{
+    transition: 1s,1s;
+    color: gold;
+}
+.gal img{
+    padding-top: 120px;
+    margin: -9;
+    width: 24%;
+}
+.con ul{
+    background-color: #6c059d;
+    align-items: center;
+}
+  

@@ -42,7 +42,8 @@ h1{
     font-weight: 1500;
     font-style: normal;
     font-size: 70px;
-    padding: 700px;
+    padding-left: 700px;
+    padding-top: 400px;
 }
 .p{
     position: absolute;

@@ -78,6 +78,7 @@ h1{
     padding-left: 1050px;
     width: 400px;
     padding-top: 80px;
+    display: flex;
 }
 .gal h1{
     padding-top: 1px;

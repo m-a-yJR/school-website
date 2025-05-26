@@ -75,14 +75,14 @@ h1{
     font-size: 30px;
 }
 .about img{
-    padding-left: 1050px;
+    padding-left: 1250px;
     width: 400px;
     padding-top: 80px;
     display: flex;
 }
 .gal h1{
     padding-top: 1px;
-    padding-left: 500px;
+    padding-left: 770px;
 }
 .gal h1:hover{
     transition: 1s,1s;

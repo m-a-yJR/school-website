@@ -75,10 +75,11 @@ h1{
     font-size: 30px;
 }
 .about img{
-    padding-left: 1250px;
+    padding-left: 1100px;
     width: 400px;
     padding-top: 80px;
     display: flex;
+    position: absolute;
 }
 .gal h1{
     padding-top: 1px;
